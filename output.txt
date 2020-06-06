@@ -1,0 +1,720 @@
+beldum: steel , psychic
+kakuna: bug , poison
+metapod: bug
+weedle: bug , poison
+tynamo: electric
+caterpie: bug
+burmy: bug
+ditto: normal
+magikarp: water
+cascoon: bug
+silcoon: bug
+scatterbug: bug
+unown: psychic
+combee: bug , flying
+wynaut: psychic
+wurmple: bug
+pyroar: fire , normal
+lilligant: grass
+wobbuffet: psychic
+venipede: bug , poison
+boldore: rock
+inkay: dark , psychic
+unfezant: normal , flying
+vivillon: bug , flying
+phantump: ghost , grass
+braixen: fire
+frogadier: water
+eelektrik: electric
+quilladin: grass
+yveltal: dark , flying
+tyrantrum: rock , dragon
+skiddo: grass
+avalugg: ice
+tranquill: normal , flying
+woobat: psychic , flying
+escavalier: bug , steel
+sewaddle: bug , grass
+trubbish: poison
+tympole: water
+frillish: water , ghost
+karrablast: bug
+ferroseed: grass , steel
+joltik: bug , electric
+excadrill: ground , steel
+terrakion: rock , fighting
+alomomola: water
+galvantula: bug , electric
+ducklett: water , flying
+aurorus: rock , ice
+pangoro: fighting , dark
+talonflame: fire , flying
+palpitoad: water , ground
+furfrou: normal
+rotom: electric , ghost
+axew: dragon
+litwick: ghost , fire
+victini: psychic , fire
+staraptor: normal , flying
+staravia: normal , flying
+pawniard: dark , steel
+swoobat: psychic , flying
+zekrom: dragon , electric
+elgyem: psychic
+krokorok: ground , dark
+sigilyph: psychic , flying
+luxray: electric
+herdier: normal
+panpour: water
+oshawott: water
+leavanny: bug , grass
+minccino: normal
+durant: bug , steel
+helioptile: electric , normal
+swadloon: bug , grass
+slurpuff: fairy
+greninja: water , dark
+shellos: water
+bonsly: rock
+cresselia: psychic
+heatmor: fire
+mandibuzz: dark , flying
+liepard: dark
+sandile: ground , dark
+gothita: psychic
+duosion: psychic
+purrloin: dark
+beartic: ice
+shelmet: bug
+bouffalant: normal
+pidove: normal , flying
+dewott: water
+noivern: flying , dragon
+whirlipede: bug , poison
+seismitoad: water , ground
+snivy: grass
+beheeyem: psychic
+watchog: normal
+luxio: electric
+mienfoo: fighting
+phione: water
+mienshao: fighting
+thundurus-incarnate: electric , flying
+braviary: normal , flying
+binacle: rock , water
+pidgeotto: normal , flying
+cloyster: water , ice
+ninetales: fire
+gloom: grass , poison
+delibird: ice , flying
+chingling: psychic
+gible: dragon , ground
+vileplume: grass , poison
+floatzel: water
+wormadam-plant: bug , grass
+chatot: normal , flying
+lumineon: water
+feebas: water
+gastrodon: water , ground
+gabite: dragon , ground
+manaphy: water
+regigigas: normal
+emboar: fire , fighting
+golurk: ground , ghost
+jellicent: water , ghost
+barbaracle: rock , water
+golett: ground , ghost
+foongus: grass , poison
+fletchling: normal , flying
+doublade: steel , ghost
+aegislash-shield: steel , ghost
+croagunk: poison , fighting
+voltorb: electric
+pidgeot: normal , flying
+ivysaur: grass , poison
+pichu: electric
+oddish: grass , poison
+magnemite: electric , steel
+weepinbell: grass , poison
+seaking: water
+dodrio: normal , flying
+lairon: steel , rock
+victreebel: grass , poison
+manectric: electric
+palkia: water , dragon
+arcanine: fire
+azelf: psychic
+beautifly: bug , flying
+buneary: normal
+wingull: water , flying
+mesprit: psychic
+buizel: water
+bibarel: normal , water
+swellow: normal , flying
+skuntank: poison , dark
+mamoswine: ice , ground
+probopass: rock , steel
+piplup: water
+shedinja: bug , ghost
+nincada: bug , ground
+gorebyss: water
+magnezone: electric , steel
+bastiodon: rock , steel
+bidoof: normal
+glameow: normal
+prinplup: water
+tyrunt: rock , dragon
+zygarde: dragon , ground
+bunnelby: normal
+goodra: dragon
+chandelure: ghost , fire
+weezing: poison
+combusken: fire , fighting
+poliwag: water
+goldeen: water
+meganium: grass
+vaporeon: water
+pineco: bug
+ampharos: electric
+yanma: bug , flying
+doduo: normal , flying
+masquerain: bug , flying
+fearow: normal , flying
+exeggutor: grass , psychic
+seadra: water
+raichu: electric
+venonat: bug , poison
+mareep: electric
+eevee: normal
+flareon: fire
+pidgey: normal , flying
+spearow: normal , flying
+ponyta: fire
+rapidash: fire
+whismur: normal
+bagon: dragon
+ludicolo: water , grass
+sealeo: ice , water
+lopunny: normal
+sunflora: grass
+bronzong: steel , psychic
+snorunt: ice
+skorupi: poison , bug
+lucario: fighting , steel
+vibrava: ground , dragon
+cranidos: rock
+empoleon: water , steel
+shieldon: rock , steel
+bronzor: steel , psychic
+finneon: water
+uxie: psychic
+vespiquen: bug , flying
+leafeon: grass
+archen: rock , flying
+zweilous: dark , dragon
+scolipede: bug , poison
+cubchoo: ice
+stoutland: normal
+whimsicott: grass , fairy
+fennekin: fire
+xerneas: fairy
+klink: steel
+cinccino: normal
+gogoat: grass
+gourgeist-average: ghost , grass
+malamar: dark , psychic
+froakie: water
+bergmite: ice
+metagross: steel , psychic
+magby: fire
+elekid: electric
+magmar: fire
+abra: psychic
+diglett: ground
+hoppip: grass , flying
+shuckle: bug , rock
+ledyba: bug , flying
+porygon: normal
+chikorita: grass
+beedrill: bug , poison
+golbat: poison , flying
+nidorino: poison
+dugtrio: ground
+volbeat: bug
+swinub: ice , ground
+zapdos: electric , flying
+starmie: water , psychic
+articuno: ice , flying
+horsea: water
+electrode: electric
+wailmer: water
+hitmonchan: fighting
+jolteon: electric
+moltres: fire , flying
+flaaffy: electric
+dusknoir: ghost
+marshtomp: water , ground
+plusle: electric
+shelgon: dragon
+politoed: water
+phanpy: ground
+numel: fire , ground
+kyogre: water
+drapion: poison , dark
+garchomp: dragon , ground
+tangrowth: grass
+luvdisc: water
+electivire: electric
+glaceon: ice
+kricketune: bug
+krookodile: ground , dark
+chespin: grass
+drilbur: ground
+maractus: grass
+klinklang: steel
+virizion: grass , fighting
+amaura: rock , ice
+serperior: grass
+vanilluxe: ice
+dragalge: poison , dragon
+clawitzer: water
+klefki: steel , fairy
+swirlix: fairy
+floette: fairy
+flabebe: fairy
+gardevoir: psychic , fairy
+dragonair: dragon
+murkrow: dark , flying
+charmeleon: fire
+deoxys-normal: psychic
+lunatone: rock , psychic
+hitmonlee: fighting
+dewgong: water , ice
+magneton: electric , steel
+bellsprout: grass , poison
+omastar: rock , water
+butterfree: bug , flying
+venomoth: bug , poison
+shellder: water
+poliwrath: water , fighting
+parasect: bug , grass
+pikachu: electric
+tropius: grass , flying
+poliwhirl: water
+nidorina: poison
+remoraid: water
+illumise: bug
+azumarill: water , fairy
+entei: fire
+magcargo: fire , rock
+corphish: water
+jumpluff: grass , flying
+donphan: ground
+lotad: water , grass
+camerupt: fire , ground
+quilava: fire
+kingdra: water , dragon
+skiploom: grass , flying
+lombre: water , grass
+whiscash: water , ground
+minun: electric
+regirock: rock
+ninjask: bug , flying
+regice: ice
+swablu: normal , flying
+gulpin: poison
+pupitar: rock , ground
+shroomish: grass
+reuniclus: psychic
+dwebble: bug , rock
+scrafty: dark , fighting
+samurott: water
+pansear: fire
+pansage: grass
+vullaby: dark , flying
+crustle: bug , rock
+chesnaught: grass , fighting
+lampent: ghost , fire
+simisear: fire
+sandshrew: ground
+grimer: poison
+misdreavus: ghost
+tangela: grass
+kadabra: psychic
+blaziken: fire , fighting
+sandslash: ground
+wigglytuff: normal , fairy
+kabutops: rock , water
+persian: normal
+natu: psychic , flying
+togepi: fairy
+growlithe: fire
+ekans: poison
+groudon: ground
+scyther: bug , flying
+graveler: rock , ground
+kabuto: rock , water
+venusaur: grass , poison
+paras: bug , grass
+ralts: psychic , fairy
+vulpix: fire
+bulbasaur: grass , poison
+arbok: poison
+koffing: poison
+jirachi: steel , psychic
+wartortle: water
+celebi: psychic , grass
+pinsir: bug
+tentacruel: water , poison
+omanyte: rock , water
+gyarados: water , flying
+tauros: normal
+haunter: ghost , poison
+krabby: water
+electabuzz: electric
+nidoran-f: poison
+seel: water
+tentacool: water , poison
+machoke: fighting
+raticate: normal
+typhlosion: fire
+rattata: normal
+heracross: bug , fighting
+salamence: dragon , flying
+zubat: poison , flying
+nidoran-m: poison
+kingler: water
+cacnea: grass
+staryu: water
+sharpedo: water , dark
+raikou: electric
+registeel: steel
+mudkip: water
+grovyle: grass
+nosepass: rock
+stunky: poison , dark
+drifblim: ghost , flying
+archeops: rock , flying
+tornadus-incarnate: flying
+timburr: fighting
+landorus-incarnate: ground , flying
+tirtouga: water , rock
+shaymin-land: grass
+hawlucha: fighting , flying
+delphox: fire , psychic
+aromatisse: fairy
+drowzee: psychic
+marowak: ground
+jynx: ice , psychic
+gengar: ghost , poison
+aerodactyl: rock , flying
+hypno: psychic
+geodude: rock , ground
+gastly: ghost , poison
+golduck: water
+squirtle: water
+muk: poison
+dratini: dragon
+golem: rock , ground
+rayquaza: dragon , flying
+charmander: fire
+exeggcute: grass , psychic
+machamp: fighting
+farfetchd: normal , flying
+onix: rock , ground
+sudowoodo: rock
+makuhita: fighting
+treecko: grass
+hariyama: fighting
+crawdaunt: water , dark
+linoone: normal
+zigzagoon: normal
+ledian: bug , flying
+porygon2: normal
+scizor: bug , steel
+torchic: fire
+chimchar: fire
+seedot: grass
+giratina-altered: ghost , dragon
+delcatty: normal
+turtwig: grass
+druddigon: dragon
+mankey: fighting
+slowpoke: water , psychic
+nidoking: poison , ground
+rhydon: ground , rock
+nidoqueen: poison , ground
+meowth: normal
+corsola: water , rock
+machop: fighting
+blastoise: water
+clefable: fairy
+psyduck: water
+cubone: ground
+primeape: fighting
+lapras: water , ice
+houndour: dark , fire
+alakazam: psychic
+swampert: water , ground
+altaria: dragon , flying
+croconaw: water
+grumpig: psychic
+sceptile: grass
+marill: water , fairy
+chinchou: water , electric
+sunkern: grass
+hitmontop: fighting
+glalie: ice
+poochyena: dark
+pelipper: water , flying
+scraggy: dark , fighting
+accelgor: bug
+absol: dark
+jigglypuff: normal , fairy
+charizard: fire , flying
+rhyhorn: ground , rock
+slowking: water , psychic
+sentret: normal
+medicham: fighting , psychic
+furret: normal
+cleffa: fairy
+seviper: poison
+suicune: water
+igglybuff: normal , fairy
+mightyena: dark
+abomasnow: grass , ice
+sylveon: fairy
+goomy: dragon
+sliggoo: dragon
+smeargle: normal
+kricketot: bug
+slowbro: water , psychic
+clefairy: fairy
+snorlax: normal
+lickitung: normal
+zangoose: normal
+girafarig: normal , psychic
+ho-oh: fire , flying
+aipom: normal
+dusclops: ghost
+mantine: water , flying
+slaking: normal
+roselia: grass , poison
+noctowl: normal , flying
+gallade: psychic , fighting
+duskull: ghost
+slugma: fire
+toxicroak: poison , fighting
+carnivine: grass
+musharna: psychic
+spewpa: bug
+mr-mime: psychic , fairy
+kangaskhan: normal
+dragonite: dragon , flying
+kecleon: normal
+ursaring: normal
+hoothoot: normal , flying
+flygon: ground , dragon
+rampardos: rock
+litleo: fire , normal
+chansey: normal
+mewtwo: psychic
+lugia: psychic , flying
+aggron: steel , rock
+relicanth: water , rock
+qwilfish: water , poison
+cacturne: grass , dark
+aron: steel , rock
+crobat: poison , flying
+cradily: rock , grass
+pumpkaboo-average: ghost , grass
+vanillish: ice
+totodile: water
+xatu: psychic , flying
+claydol: ground , psychic
+smoochum: ice , psychic
+shuppet: ghost
+zebstrika: electric
+amoonguss: grass , poison
+sawsbuck: normal , grass
+rufflet: normal , flying
+mawile: steel , fairy
+arceus: normal
+gothitelle: psychic
+throh: fighting
+cryogonal: ice
+sawk: fighting
+servine: grass
+patrat: normal
+cofagrigus: ghost
+carbink: rock , fairy
+meowstic-male: psychic
+klang: steel
+pancham: fighting
+skrelp: poison , water
+miltank: normal
+latias: dragon , psychic
+meditite: fighting , psychic
+zorua: dark
+solosis: psychic
+roggenrola: rock
+hoopa: psychic , ghost
+gigalith: rock
+blissey: normal
+teddiursa: normal
+dunsparce: normal
+clamperl: water
+cherrim: grass
+munna: psychic
+zoroark: dark
+hippopotas: ground
+blitzle: electric
+petilil: grass
+mantyke: water , flying
+starly: normal , flying
+pignite: fire , fighting
+ferrothorn: grass , steel
+roserade: grass , poison
+spritzee: fairy
+spiritomb: ghost , dark
+monferno: fire , fighting
+honchkrow: dark , flying
+darmanitan-standard: fire
+lillipup: normal
+simisage: grass
+tyranitar: rock , dark
+surskit: bug , water
+magmortar: fire
+yanmega: bug , flying
+volcarona: bug , fire
+armaldo: rock , bug
+hippowdon: ground
+umbreon: dark
+trapinch: ground
+keldeo-ordinary: water , fighting
+cobalion: steel , fighting
+mew: psychic
+vigoroth: normal
+octillery: water
+spheal: ice , water
+walrein: ice , water
+mothim: bug , flying
+diancie: rock , fairy
+breloom: grass , fighting
+drifloon: ghost , flying
+genesect: bug , steel
+stantler: normal
+skarmory: steel , flying
+houndoom: dark , fire
+carvanha: water , dark
+exploud: normal
+tepig: fire
+latios: dragon , psychic
+grotle: grass
+trevenant: ghost , grass
+sneasel: dark , ice
+wailord: water
+simipour: water
+kirlia: psychic , fairy
+ariados: bug , poison
+shiftry: grass , dark
+florges: fairy
+solrock: rock , psychic
+diggersby: normal , ground
+eelektross: electric
+carracosta: water , rock
+torkoal: fire
+azurill: normal , fairy
+haxorus: dragon
+audino: normal
+munchlax: normal
+forretress: bug , steel
+cyndaquil: fire
+clauncher: water
+granbull: fairy
+bisharp: dark , steel
+hydreigon: dark , dragon
+togetic: fairy , flying
+spinda: normal
+spoink: psychic
+snubbull: fairy
+emolga: electric , flying
+ambipom: normal
+loudred: normal
+pachirisu: electric
+noibat: flying , dragon
+tyrogue: fighting
+mime-jr: psychic , fairy
+riolu: fighting
+metang: steel , psychic
+espeon: psychic
+larvitar: rock , ground
+weavile: dark , ice
+slakoth: normal
+feraligatr: water
+quagsire: water , ground
+heliolisk: electric , normal
+porygon-z: normal
+vanillite: ice
+barboach: water , ground
+kyurem: dragon , ice
+lileep: rock , grass
+banette: ghost
+anorith: rock , bug
+cottonee: grass , fairy
+nuzleaf: grass , dark
+fletchinder: fire , flying
+togekiss: fairy , flying
+stunfisk: ground , electric
+darumaka: fire
+huntail: water
+meloetta-aria: normal , psychic
+lickilicky: normal
+happiny: normal
+garbodor: poison
+torterra: grass , ground
+bayleef: grass
+piloswine: ice , ground
+taillow: normal , flying
+fraxure: dragon
+mismagius: ghost
+honedge: steel , ghost
+electrike: electric
+reshiram: dragon , fire
+chimecho: psychic
+espurr: psychic
+dedenne: electric , fairy
+deerling: normal , grass
+darkrai: dark
+wooper: water , ground
+skitty: normal
+gligar: ground , flying
+steelix: steel , ground
+snover: grass , ice
+gothorita: psychic
+conkeldurr: fighting
+sableye: dark , ghost
+purugly: normal
+lanturn: water , electric
+gurdurr: fighting
+dialga: steel , dragon
+baltoy: ground , psychic
+castform: normal
+swalot: poison
+bellossom: grass
+larvesta: bug , fire
+rhyperior: ground , rock
+cherubi: grass
+basculin-red-striped: water
+dustox: bug , poison
+heatran: fire , steel
+infernape: fire , fighting
+deino: dark , dragon
+yamask: ghost
+milotic: water
+shinx: electric
+budew: grass , poison
+spinarak: bug , poison
+froslass: ice , ghost
+gliscor: ground , flying
+swanna: water , flying

@@ -50,7 +50,6 @@ fetch('https://pokeapi.co/api/v2/pokemon?limit=151')
     .then(data => { //confirmed all pokemon types are being returned in
     //JSON using .then(data => { console.log(data)}) - no longer needed
     //turn JSON into an array maybe?
-    pokemonTypes = data.parse();
       console.log(pokemonTypes.filter(function(item){ //<-spent way too much time here, trying to figure out why
         //.filter is not a function
             return item.type == "name";
