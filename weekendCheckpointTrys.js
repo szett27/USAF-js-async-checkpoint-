@@ -24,8 +24,6 @@ for(let i = 1; i <= 720; i++){
 fetch('https://pokeapi.co/api/v2/pokemon/' + i)
     .then(response => response.json())
     .then(name => {fs.appendFileSync('input.txt', name.name + "\n")})
-
-
 }
 
 
@@ -47,10 +45,15 @@ lineReader.on('line', function (line) {
   fetch('https://pokeapi.co/api/v2/pokemon/' + line)
       .then(response => response.json())
       .then(current => {
+            //fs.appendFileSync('output.txt', line + ': ' + current.sprites["front_default"] + "\n");
+            for(let i =0; i <= 720; i++){
             if(current.types.length === 2){
-            fs.appendFileSync('output.txt', line + ': ' + current.types[0].type["name"] + " , " + current.types[1].type["name"] + "\n");
-      } else{
-            fs.appendFileSync('output.txt', line + ': ' + current.types[0].type["name"] + "\n");
-      }
-    });
-});
+              fs.appendFileSync('output.txt', line + ': ' + current.types[0].type["name"] + " , " + current.types[1].type["name"] + "\n");
+            } else{
+              fs.appendFileSync('output.txt', line + ': ' + current.types[0].type["name"] + "\n");
+             }
+           }
+         }
+         )
+
+      });
